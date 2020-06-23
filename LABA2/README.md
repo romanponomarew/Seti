@@ -2,7 +2,7 @@
 
 ## Схема сети
 
-![mai](mai.png)
+![schema](https://github.com/romanponomarew/Seti/blob/master/LABA2/Screenshots/schema2.png)
 
 ### Настройка на все роутеры
 ```
@@ -49,7 +49,7 @@ exit                          		# выход в консоль
 
 sudo iptables -t nat -A POSTROUTING -o eth1 -j MASQUERADE  # включение маскарада на интерфейсе eth1
 ```
-![router1](router1.png)
+![router1](https://github.com/romanponomarew/Seti/blob/master/LABA2/Screenshots/1router.png)
 
 ### Второй роутер (R2)
 ```
@@ -68,7 +68,7 @@ exit                          		# выход из режима настройк�
 exit                          		# выход в основной режим
 copy running-config startup-config 	# сохранение конфигурации в память роутера, чтобы при запуске не приходилось каждый раз настраивать заново
 ```
-![router2](router2.png)
+![router2](https://github.com/romanponomarew/Seti/blob/master/LABA2/Screenshots/2router.png)
 ### Третий роутер (R3)
 ```
 sudo vtysh                     		# вход в quagga
@@ -86,7 +86,7 @@ exit                           		# выход из режима настройк
 exit                           		# выход в основной режим
 copy running-config startup-config 	# сохранение конфигурации в память роутера, чтобы при запуске не приходилось каждый раз настраивать заново
 ```
-![router3](router3.png)
+![router3](https://github.com/romanponomarew/Seti/blob/master/LABA2/Screenshots/3router.png)
 ### Четвёртый роутер (R4)
 ```
 sudo vtysh                         	# вход в quagga
@@ -102,4 +102,4 @@ exit                               	# выход из режима настро�
 exit                               	# выход в основной режим
 copy running-config startup-config 	# сохранение конфигурации в память роутера, чтобы при запуске не приходилось каждый раз настраивать заново
 ```
-![router4](router4.png)
+![router4](https://github.com/romanponomarew/Seti/blob/master/LABA2/Screenshots/4router.png)
