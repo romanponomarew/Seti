@@ -4,7 +4,8 @@
 - нарисовать схему
 - расписать возможные подсети
 
-![mai_lab_1](mai_lab_1.png)
+![Alt text](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/schema.png)
+
 
 ---
 ## Задание 2
@@ -61,36 +62,36 @@ ________________________________________________________________________________
 
 ### tracepath
 - centralRouter
-![centralRouter_tracepath](tracepath/centralRouter_tracepath.png)
+![centralRouter_tracepath](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/tracepath1/centralRouter_tracepath.png)
 - centralServer
-![centralServer_tracepath](tracepath/centralServer_tracepath.png)
+![centralServer_tracepath](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/tracepath1/centralServer_tracepath.png)
 - inetRouter
-![inetRouter_tracepath](tracepath/inetRouter_tracepath.png)
+![inetRouter_tracepath](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/tracepath1/inetRouter_tracepath.png)
 - office1Router
-![office1Router_tracepath](tracepath/office1Router_tracepath.png)
+![office1Router_tracepath](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/tracepath1/office1Router_tracepath.png)
 - office1Server
-![office1Server](tracepath/office1Server.png)
+![office1Server](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/tracepath1/office1Server.png)
 - office2Router
-![office2Router_tracepath](tracepath/office2Router_tracepath.png)
+![office2Router_tracepath](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/tracepath1/office2Router_tracepath.png)
 - office2Server
-![office2Server_tracepath](tracepath/office2Server_tracepath.png)
+![office2Server_tracepath](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/tracepath1/office2Server_tracepath.png)
 
 ### ip r
 
 - centralRouter
-![centralrouter_ip_r](ip_r/centralrouter_ip_r.png)
+![centralrouter_ip_r](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/ip_r1/centralrouter_ip_r.png)
 - centralServer
-![centralServer_ip_r](ip_r/centralServer_ip_r.png)
+![centralServer_ip_r](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/ip_r1/centralServer_ip_r.png)
 - inetRouter
-![inetrouter_ip_r](ip_r/inetrouter_ip_r.png)
+![inetrouter_ip_r](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/ip_r1/inetrouter_ip_r.png)
 - office1Router
-![office1Router_ip_r](ip_r/office1Router_ip_r.png)
+![office1Router_ip_r](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/ip_r1/office1Router_ip_r.png)
 - office1Server
-![office1Server_ip_r](ip_r/office1Server_ip_r.png)
+![office1Server_ip_r](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/ip_r1/office1Server_ip_r.png)
 - office2Router
-![office2Router_ip_r](ip_r/office2Router_ip_r.png)
+![office2Router_ip_r](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/ip_r1/office2Router_ip_r.png)
 - office2Server
-![office2Server_ip_r](ip_r/office2Server_ip_r.png)
+![office2Server_ip_r](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/ip_r1/office2Server_ip_r.png)
 
 ## Задание 4
 - поднять nginx на officе2Server
@@ -98,8 +99,8 @@ ________________________________________________________________________________
 
 ### Nginx
 
-![nginx](nginx.png)
+![nginx](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/nginx.png)
 
 ###  Блокировка запроса на 80 порт
-![port80](port80.png)
-![ping](ping.png)
+![port80](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/80port.png)
+![ping](https://github.com/romanponomarew/Seti/blob/master/LABA1/Screenshots/ping.png)
